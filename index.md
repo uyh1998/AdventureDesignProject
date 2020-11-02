@@ -1,7 +1,8 @@
 
-# test
-
-## Welcome to GitHub Pages
+# 프로젝트 개요
+2. 구상안
+3. 필요 부품
+4. 참고 자료
 
 ![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
 
