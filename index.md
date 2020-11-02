@@ -1,14 +1,16 @@
 
 # Summary / 개요
 
-<br>## IOT(사물인터넷)
+<br>
+## IOT(사물인터넷)
 
 Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해 실시간으로 데이터를 인터넷으로 주고받는 기술이나 환경을 일컫는다.
 지금까진 인터넷에 연결된 기기들이 정보를 주고받으려면 인간의 ‘조작’이 개입돼야 했다. 하지만 사물인터넷에 연결된 기기는 사람의 도움 없이 서로 알아서 정보를 주고 받으며 대화를 나눌 수 있다.
 블루투스나 근거리무선통신(NFC), 센서데이터, 네트워크가 이들의 자율적인 소통을 돕는 기술이 된다.
 
 
-<br>## 기능설명
+<br>
+## 기능설명
 
 아두이노 회로에 붙은 IOT모듈이 날씨데이터를 받아온다.<br>
 받아온 데이터는 디스플레이에 표시되어 사용자에게 정보를 전달한다.<br>
@@ -18,13 +20,15 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 <br><br>
 # Concept / 구상안
 
-<br>## 날씨 데이터 받아오기
+<br>
+## 날씨 데이터 받아오기
 [페이지](https://postpop.tistory.com/86)참고<br><br>
 기상청 페이지에서 RSS(Really Simple Syndication, Rich Site Summary)를 받아올 수 있다. <br><br>
 RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이트 될 때마다 빠르고 편리하게 확인할 수 있다.<br><br>
 [용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)
 
-<br>## 구동계 동작
+<br>
+## 구동계 동작
 ![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
 
 
