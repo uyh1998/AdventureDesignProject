@@ -3,7 +3,7 @@
 
 ## Welcome to GitHub Pages
 
-https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg
+![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
 
 You can use the [editor on GitHub](https://github.com/uyh1998/AdventureDesignProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
