@@ -11,8 +11,21 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 
 아두이노 회로에 붙은 IOT모듈이 날씨데이터를 받아온다.<br>
 받아온 데이터는 디스플레이에 표시되어 사용자에게 정보를 전달한다.<br>
-데이터에 있는 체감 온도를 이용해 동작부인 링이 움직여 옷걸이를 정렬한다.<br>
+데이터에 있는 체감 온도를 이용해 구동계가 링이 움직여 옷걸이를 정렬한다.<br>
 정렬을 마치면 오늘 날씨에 적당한 옷이 앞에 위치하게 된다.
+
+# Concept / 구상안
+
+## 날씨 데이터 받아오기
+[페이지](https://postpop.tistory.com/86)참고<br><br>
+기상청 페이지에서 RSS(Really Simple Syndication, Rich Site Summary)를 받아올 수 있다. <br><br>
+RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이트 될 때마다 빠르고 편리하게 확인할 수 있다.<br><br>
+[용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)
+
+## 구동계 동작
+![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
+
+
 
 ![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
 
