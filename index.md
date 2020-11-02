@@ -1,4 +1,4 @@
-title: 어벤디 프로젝트
+title: [어벤디 프로젝트]
 description: IOT 옷걸이
 
 # test
