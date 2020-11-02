@@ -30,6 +30,10 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 ## 구동계 동작
 ![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
 
+## IOT 보드
+![iot모듈](https://user-images.githubusercontent.com/73837890/97905518-77a3a000-1d85-11eb-8484-61be44a0a5ca.PNG)
+
+
 
 
 ![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
