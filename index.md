@@ -7,6 +7,13 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 지금까진 인터넷에 연결된 기기들이 정보를 주고받으려면 인간의 ‘조작’이 개입돼야 했다. 하지만 사물인터넷에 연결된 기기는 사람의 도움 없이 서로 알아서 정보를 주고 받으며 대화를 나눌 수 있다.
 블루투스나 근거리무선통신(NFC), 센서데이터, 네트워크가 이들의 자율적인 소통을 돕는 기술이 된다.
 
+## 기능설명
+
+아두이노 회로에 붙은 IOT모듈이 날씨데이터를 받아온다.<p>
+받아온 데이터는 디스플레이에 표시되어 사용자에게 정보를 전달한다.<p>
+데이터에 있는 체감 온도를 이용해 동작부인 링이 움직여 옷걸이를 정렬한다.<p>
+정렬을 마치면 오늘 날씨에 적당한 옷이 앞에 위치하게 된다.<p>
+
 ![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
 
 You can use the [editor on GitHub](https://github.com/uyh1998/AdventureDesignProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
