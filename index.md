@@ -39,4 +39,5 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 기상청 날씨누리[#](https://www.weather.go.kr/w/weather/now.do)<br>
 기상청 RSS 데이터[#](https://www.weather.go.kr/weather/lifenindustry/sevice_rss.jsp?sido=4100000000&gugun=4146300000&dong=4146353000&x=30&y=12)<br>
 아두이노 IOT 활용 영상[#](https://www.youtube.com/watch?v=8rLFYjeFf_c&t=394s)<br>
-Onshape 모델링[#](https://cad.onshape.com/documents/a7ac3f0235dd5f6b6191ebe7/w/da14889e2f97f6c179aa0c51/e/18bfe2a3db88af4022d3ebe9)
+Onshape 모델링[#](https://cad.onshape.com/documents/a7ac3f0235dd5f6b6191ebe7/w/da14889e2f97f6c179aa0c51/e/18bfe2a3db88af4022d3ebe9)<br>
+RSS 데이터 정의[#](https://www.weather.go.kr/images/weather/lifenindustry/dongnaeforecast_rss.pdf)
