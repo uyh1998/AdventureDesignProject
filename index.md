@@ -34,7 +34,7 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 ## IOT 보드
 ![iot모듈](https://user-images.githubusercontent.com/73837890/97905518-77a3a000-1d85-11eb-8484-61be44a0a5ca.PNG)
 
-# reference / 참고자료
+# Reference / 참고자료
 
 날씨 데이터 받아오기[#1](https://postpop.tistory.com/86)[#2](https://m.blog.naver.com/PostView.nhn?blogId=compass1111&logNo=221133450681&proxyReferer=https:%2F%2Fwww.google.com%2F)<br>
 기상청 날씨누리[#](https://www.weather.go.kr/w/weather/now.do)<br>
