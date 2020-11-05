@@ -27,6 +27,8 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이트 될 때마다 빠르고 편리하게 확인할 수 있다.<br><br>
 [용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)<br>
 
+![modify_04](https://user-images.githubusercontent.com/73837890/98254683-eff5a580-1fbf-11eb-936a-a3a916ae4b8a.gif)
+
 ## 구동계 동작
 ![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
 
