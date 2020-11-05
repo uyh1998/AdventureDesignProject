@@ -25,9 +25,11 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 [페이지](https://postpop.tistory.com/86)참고<br><br>
 기상청 페이지에서 RSS(Really Simple Syndication, Rich Site Summary)를 받아올 수 있다. <br><br>
 RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이트 될 때마다 빠르고 편리하게 확인할 수 있다.<br><br>
-[용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)<br>
+[용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)<br><br>
 
-![modify_04](https://user-images.githubusercontent.com/73837890/98254683-eff5a580-1fbf-11eb-936a-a3a916ae4b8a.gif)
+### 체감온도 공식<br>
+![image](https://user-images.githubusercontent.com/73837890/98255860-3c8db080-1fc1-11eb-9657-7e1b31827e4b.png)<br><br>
+
 
 ## 구동계 동작
 ![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
