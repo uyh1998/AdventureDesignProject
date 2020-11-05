@@ -20,7 +20,6 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 ## 3D모델링
 ![KakaoTalk_20201101_153744209](https://user-images.githubusercontent.com/73837890/97888691-c5f97480-1d6e-11eb-96a2-a50d110c40d9.jpg)
 ![KakaoTalk_20201101_153744209_01](https://user-images.githubusercontent.com/73837890/97888698-c7c33800-1d6e-11eb-87c4-0c50b8099cf7.jpg)
-![KakaoTalk_20201101_153744209_02](https://user-images.githubusercontent.com/73837890/97888700-c85bce80-1d6e-11eb-8059-78819a84342a.jpg)
 
 ## 날씨 데이터 받아오기
 [페이지](https://postpop.tistory.com/86)참고<br><br>
