@@ -27,15 +27,32 @@ Internet of Things의 약자로 사물인터넷은 사물에 센서를 부착해
 RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이트 될 때마다 빠르고 편리하게 확인할 수 있다.<br><br>
 [용인시 기흥구 RSS 링크](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146353000)<br><br>
 
-### 체감온도 공식<br>
-![image](https://user-images.githubusercontent.com/73837890/98255860-3c8db080-1fc1-11eb-9657-7e1b31827e4b.png)<br><br>
-
-
 ## 구동계 동작
 ![바 시뮬레이션](https://user-images.githubusercontent.com/73837890/97899533-c4cf4400-1d7c-11eb-976c-aaf15b67564c.gif)
 
 ## IOT 보드
 ![iot모듈](https://user-images.githubusercontent.com/73837890/97905518-77a3a000-1d85-11eb-8484-61be44a0a5ca.PNG)
+
+# Making / 제작과정<br>
+
+## 모델링
+3D 프린팅 모델링 사진
+
+## 구동부 결합
+구동부 사진
+
+## 결선
+
+## 코딩
+
+# Output / 완성 작품
+
+## 작동예시
+
+## 온도별 구동부 움직임
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen="">
+</iframe>
 
 # Reference / 참고자료
 
