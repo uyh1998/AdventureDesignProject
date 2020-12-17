@@ -1,0 +1,175 @@
+#include <Wire.h>
+ 
+
+const int dirPin1 = 2;  
+const int stepPin1 = 3;  
+const int dirPin2 = 4;  
+const int stepPin2 = 5;  
+const int dirPin3 = 6;  
+const int stepPin3 = 7;  
+const int stepsPerRevolution = 3170;  
+int initialState = 0;
+int currentState = 1;
+void setup()
+{
+  Wire.begin(0x13);                // join i2c bus with address #4
+  Wire.onReceive(receiveEvent); // register event
+  pinMode(stepPin1, OUTPUT);  
+  pinMode(dirPin1, OUTPUT);  
+  pinMode(stepPin2, OUTPUT);  
+  pinMode(dirPin2, OUTPUT);  
+  pinMode(stepPin3, OUTPUT);  
+  pinMode(dirPin3, OUTPUT);  
+  Serial.begin(9600);
+}
+ 
+void loop()
+{
+ 
+  delay(500);
+}
+ 
+void receiveEvent(int howMany)
+{
+    byte value = 1;
+    while(0 < Wire.available())
+    {
+        value =  Wire.read();
+    }
+    delay(5000);
+   Serial.print(value);
+    if(value == 1){
+      if(currentState == 1){
+        
+      }
+      else if (currentState == 2){
+        digitalWrite(dirPin2, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin2, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin2, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin1, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin1, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin1, LOW);  
+          delayMicroseconds(800);
+        }
+            
+      }
+      else if (currentState == 3){
+        digitalWrite(dirPin3, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin3, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin3, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin2, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin2, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin2, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin1, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin1, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin1, LOW);  
+          delayMicroseconds(800);
+        }
+      }
+      currentState = 1;
+    }
+        
+    else if(value == 2){
+      if(currentState == 1){
+        digitalWrite(dirPin1, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin1, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin1, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin2, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin2, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin2, LOW);  
+          delayMicroseconds(800);
+        }
+        
+      }else if (currentState == 2){
+        
+      }else if (currentState == 3){
+        digitalWrite(dirPin3, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin3, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin3, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin2, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin2, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin2, LOW);  
+          delayMicroseconds(800);
+        }
+        
+      }
+      currentState = 2;
+    }
+    else if(value == 3){
+      if(currentState == 1){
+        digitalWrite(dirPin1, LOW);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin1, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin1, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin2, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin2, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin2, LOW);  
+          delayMicroseconds(800);
+        }
+        digitalWrite(dirPin3, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin3, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin3, LOW);  
+          delayMicroseconds(800);
+        }
+      }else if (currentState == 2){
+        digitalWrite(dirPin3, HIGH);  
+        for(int x = 0; x < stepsPerRevolution; x++)  
+        {  
+          digitalWrite(stepPin3, HIGH);  
+          delayMicroseconds(800);  
+          digitalWrite(stepPin3, LOW);  
+          delayMicroseconds(800);
+        }
+      }else if (currentState == 3){
+        
+      }
+      currentState = 3;
+    }
+}
