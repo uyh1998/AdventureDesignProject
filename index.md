@@ -45,7 +45,7 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 ## 구동부 결합
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=eqg26JvUuXU" frameborder="0" gesture="media" allowfullscreen="">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eqg26JvUuXU" gesture="media" allowfullscreen="">
 </iframe>
 
 ## 결선
@@ -63,21 +63,17 @@ esp보드 빵판 등 사진
 터치시하는 부분 , 디스플레이 부분 설명
 
 ## 온도별 구동부 움직임
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=oV1YMRpGXe8" gesture="media" allowfullscreen="">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oV1YMRpGXe8" gesture="media" allowfullscreen="">
+</iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rPrDkbB5mDc" gesture="media" allowfullscreen="">
 </iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/uElTN_Ac87A" gesture="media" allowfullscreen="">
 </iframe>
 
 ## 작동예시
-<iframe width="640" height="360" src="https://youtu.be/uElTN_Ac87A" gesture="media" allowfullscreen="">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/I9r5AFO4quc" allowfullscreen="">
 </iframe>
 
-
-
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=I9r5AFO4quc" gesture="media" allowfullscreen="">
-</iframe>
 
 
 
