@@ -36,10 +36,10 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 # Making / 제작과정<br>
 
 ## 모델링
-<div>
+
 <img width="300" scr="https://user-images.githubusercontent.com/73837890/102479026-b1b0d300-40a1-11eb-8970-a30cdf677296.jpg"> 
 <img width="300" scr="https://user-images.githubusercontent.com/73837890/102479043-b83f4a80-40a1-11eb-9138-4575d8fbef1c.PNG">
-</div>
+
 
 
 ## 구동부 결합
