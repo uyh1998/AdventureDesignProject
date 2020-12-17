@@ -65,9 +65,7 @@ esp보드 빵판 등 사진
 ## 온도별 구동부 움직임
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=oV1YMRpGXe8" gesture="media" allowfullscreen="">
 </iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=rPrDkbB5mDc" gesture="media" allowfullscreen="">
-</iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=uElTN_Ac87A" gesture="media" allowfullscreen="">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uElTN_Ac87A" gesture="media" allowfullscreen="">
 </iframe>
 
 ## 작동예시
