@@ -36,20 +36,21 @@ RSS를 활용하면 홈페이지에 일일이 방문하지 않아도 업데이�
 # Making / 제작과정<br>
 
 ## 모델링
-
-<img width="300" scr="https://user-images.githubusercontent.com/73837890/102479026-b1b0d300-40a1-11eb-8970-a30cdf677296.jpg"></img>
-<img width="300" scr="https://user-images.githubusercontent.com/73837890/102479043-b83f4a80-40a1-11eb-9138-4575d8fbef1c.PNG"></img>
-
+![모델링 사진](https://user-images.githubusercontent.com/73837890/102479043-b83f4a80-40a1-11eb-9138-4575d8fbef1c.PNG)
+![프린트 출력물](https://user-images.githubusercontent.com/73837890/102479026-b1b0d300-40a1-11eb-8970-a30cdf677296.jpg)
 
 
 ## 구동부 결합
-
+![롤러 벨트 결합](https://user-images.githubusercontent.com/73837890/102479653-84185980-40a2-11eb-8b1b-a9fba78b42d8.JPG)
+![베어링+슬라이더](https://user-images.githubusercontent.com/73837890/102479849-cb064f00-40a2-11eb-83ee-28ab6a104dd9.JPG)
+![슬라이더 + 벨트](https://user-images.githubusercontent.com/73837890/102480052-1882bc00-40a3-11eb-8809-8e3cb1885c67.JPG)
+![전체 결합](https://user-images.githubusercontent.com/73837890/102480073-20daf700-40a3-11eb-8949-91481c3862e3.JPG)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eqg26JvUuXU" gesture="media" allowfullscreen="">
 </iframe>
 
 ## 결선
-esp보드 빵판 등 사진
+![결선 사진](https://user-images.githubusercontent.com/73837890/102479722-9b574700-40a2-11eb-9080-fdef2bc2c8ec.jpg)
 
 ## 코딩
 코드 복붙
@@ -57,7 +58,8 @@ esp보드 빵판 등 사진
 # Output / 완성 작품
 
 ## 외관
-옷걸이 장착 사진
+![외관](https://user-images.githubusercontent.com/73837890/102483590-5209f600-40a8-11eb-848e-10d27c4a72b7.jpg)
+
 
 ## 작동방식
 터치시하는 부분 , 디스플레이 부분 설명
