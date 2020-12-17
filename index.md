@@ -71,7 +71,7 @@ esp보드 빵판 등 사진
 </iframe>
 
 ## 작동예시
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=I9r5AFO4quc" gesture="media" allowfullscreen="">
+<iframe width="640" height="360" src="https://youtu.be/uElTN_Ac87A" gesture="media" allowfullscreen="">
 </iframe>
 
 
