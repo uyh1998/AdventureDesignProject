@@ -52,7 +52,7 @@ float stemp;
 
 void loop() { 
   if(  touchRead(T0) < 20) //평상시의 touchRead값은 5~60, 터치시 10이하
-  {get_weather2();}
+  {get_weather();}
   
   delay(1000);
   
