@@ -62,9 +62,6 @@ esp 코드[#](https://github.com/uyh1998/AdventureDesignProject/blob/main/code-e
 ![외관](https://user-images.githubusercontent.com/73837890/102483590-5209f600-40a8-11eb-848e-10d27c4a72b7.jpg)
 
 
-## 작동방식
-터치시하는 부분 , 디스플레이 부분 설명
-
 ## 온도별 구동부 움직임
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1YMRpGXe8" gesture="media" allowfullscreen="">
 </iframe>
